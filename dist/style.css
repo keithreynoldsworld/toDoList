@@ -1,0 +1,24 @@
+body{
+	background: yellow;
+	font-size: 30px;
+}
+
+div{
+	background:pink;
+	padding:50px;
+	text-align: center;
+	
+}
+
+section{
+	background:orange;
+}
+
+input{
+ width: 200px;
+
+}
+
+form{
+width: 200px;
+}
